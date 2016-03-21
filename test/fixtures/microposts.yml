@@ -14,7 +14,7 @@ cat_video:
   content: "Sad cats are sad: http://youtu.be/PKffm2uI4dk"
   created_at: <%= 2.hours.ago %>
   user: michael
-
+  # added a comment
 most_recent:
   content: "Writing a short test"
   created_at: <%= Time.zone.now %>
