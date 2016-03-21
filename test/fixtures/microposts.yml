@@ -19,7 +19,7 @@ most_recent:
   content: "Writing a short test"
   created_at: <%= Time.zone.now %>
   user: michael
-  
+  # add another comment
 ants:
   content: "Oh, is that what you want? Because that's how you get ants!"
   created_at: <%= 2.years.ago %>
