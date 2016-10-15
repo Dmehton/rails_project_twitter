@@ -1,7 +1,5 @@
 == README
 
-Learning ruby through twitter. Learning by action
+Learning ruby through building twitter.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
